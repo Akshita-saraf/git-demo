@@ -3,3 +3,5 @@ newb branch
 changes from master branch
 channges from conflict branch
 added from local
+changes from git
+
