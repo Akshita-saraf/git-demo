@@ -2,3 +2,4 @@ Quick demo
 newb branch
 changes from master branch
 channges from conflict branch
+changes from git
